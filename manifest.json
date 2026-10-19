@@ -278,5 +278,26 @@
     "height": 724,
     "bytes": 1342877,
     "sha256": "8cf33f7eca6741447b62824390c91086d1f00a76d2aaf9c33fa15f450e3036fa"
+  },
+  {
+    "id": "P01",
+    "width": 2172,
+    "height": 724,
+    "bytes": 1196169,
+    "sha256": "0274a0d0f290bd22e52c43b79c7aec7fd8db734191b4cb3c9d0e891db647ba35"
+  },
+  {
+    "id": "P02",
+    "width": 2172,
+    "height": 724,
+    "bytes": 1254315,
+    "sha256": "8bb1703ab4b3306e2737fc11a5a1aea3f847bb513a62ee27bd955639d9a1cef6"
+  },
+  {
+    "id": "P03",
+    "width": 2172,
+    "height": 724,
+    "bytes": 1282007,
+    "sha256": "498fa3a323a1ed45eb2da4b1df41006144da24435bedd8e2c71edb96dcd214ff"
   }
 ]

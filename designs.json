@@ -358,5 +358,35 @@
     "description": "선명한 블루와 각진 한글 워드마크. 능선과 영문 외곽선을 연결해 강한 그래픽 인상을 만듭니다.",
     "number": 60,
     "group": "short"
+  },
+  {
+    "id": "P01",
+    "title": "초기 한글 워드마크",
+    "brand": "함산",
+    "style": "타이포그래피",
+    "description": "아이보리 바탕과 짙은 초록의 대형 함산 워드마크. 이전 인계 문서에 포함된 초기 A안 원본입니다.",
+    "number": null,
+    "group": "previous",
+    "source": "이전 인계 문서 수록 원본"
+  },
+  {
+    "id": "P02",
+    "title": "초기 영문 워드마크",
+    "brand": "함산",
+    "style": "타이포그래피",
+    "description": "오렌지 바탕과 HAMSAN 중심의 영문 워드마크. 이전 인계 문서에 포함된 초기 B안 원본입니다. 설립 표기는 원본의 EST. 2021을 유지했습니다.",
+    "number": null,
+    "group": "previous",
+    "source": "이전 인계 문서 수록 원본"
+  },
+  {
+    "id": "P03",
+    "title": "초기 심벌 조합",
+    "brand": "함산",
+    "style": "그래픽",
+    "description": "네이비 바탕에 산과 오르는 길을 담은 라임색 심벌. 이전 인계 문서에 포함된 초기 C안 원본입니다. 설립 표기는 원본의 EST. 2021을 유지했습니다.",
+    "number": null,
+    "group": "previous",
+    "source": "이전 인계 문서 수록 원본"
   }
 ]
